@@ -67,7 +67,7 @@ span.psw {
  <div class="panel panel-default">
      <div class="panel-body">
 <h2>Login</h2>
-<form action="/action_page.php">
+<form action="/action_login.php">
   <div class="container">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div>
@@ -94,7 +94,7 @@ span.psw {
         <div class="container">
         <div class="panel panel-default">
             <div class="panel-body">
-                <form action="/action_page.php" style="border:1px solid #ccc">
+                <form action="/action_register.php" style="border:1px solid #ccc">
   
     <h1>Sign Up</h1>
     <p>Please fill in this form to create an account.</p>
